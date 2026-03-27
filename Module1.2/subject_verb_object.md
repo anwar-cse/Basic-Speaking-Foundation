@@ -4,7 +4,7 @@
             You run ✔️ 
 
 
-    #  Subject + Verb + Object
+##  Subject + Verb + Object
 
     এখন আমরা sentence একটু বড় করবো 👇
 
@@ -53,7 +53,7 @@
             ❌ Wrong: I rice eat
             ✅ Correct: I eat rice
 
-    🎯 Practice 
+#   🎯 Practice 
 
             এগুলো ইংরেজিতে বলো:
 
