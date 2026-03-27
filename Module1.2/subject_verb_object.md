@@ -4,7 +4,7 @@
             You run ✔️ 
 
 
-    ##  Subject + Verb + Object
+    #  Subject + Verb + Object
 
     এখন আমরা sentence একটু বড় করবো 👇
 
